@@ -7,7 +7,7 @@ pdf_convertor is a QT interface for converting different data format.
 Windows application. you need to install python.
 
 interface: 
-![alt text](empca.PNG)
+![alt text](emPCA.PNG)
 
 
 ## Usage
